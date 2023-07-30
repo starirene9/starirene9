@@ -13,13 +13,20 @@ https://www.instagram.com/bitnara_999/
 
 ⭐️ Website
 
-https://bitnara999.com
+https://bitnara999.com 
 
 ⭐️ Platforms & Langaugages
 
 ⭐️ Tools
 
+
+![starirene9's github stats](https://github-readme-stats.vercel.app/api?username=starirene9&show_icons=true)
+[![starirene9's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=starirene9&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/starirene9)
+
+
 </div>
+
+
 
 
 
