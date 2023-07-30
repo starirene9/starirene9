@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @starirene9.
-- 👀 I’m interested in Front-end Software Engineering, Yoga & Wellness, and Tourism Industry.
-- 🌱 I’m currently learning Java Script ES6, React.
-- 💞️ I want to collaborate in the IT sector specializing in Tourism, Education, and Healthcare.
-- 📫 How to reach me starirene9@gmail.com or follow me on Instagram https://www.instagram.com/bitnara_999/ or my personal website https://bitnara999.com
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Bitnara%20999&fontSize=90" />
 
-<!---
-starirene9/starirene9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+" Hi, I’m Bitna. 
+
+I want to become a talented Front-end developer who consistently pursues learning and growth.
+
+You will be able to see how much effort I have put in from the link below. " 👀
+<br><br/>  
+⭐️ Follow me on Instagram
+
+https://www.instagram.com/bitnara_999/
+
+⭐️ Website
+
+https://bitnara999.com
+
+⭐️ Platforms & Langaugages
+
+⭐️ Tools
+
+</div>
+
+
+
