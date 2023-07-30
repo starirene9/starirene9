@@ -8,6 +8,8 @@ I want to become a talented Front-end developer who consistently pursues learnin
 Primarily worked in Aviation, having excellent communication skills, team-player, and proficiency in English.
 
 You will be able to see how much effort I have put in from the link below. " 👀
+
+말 잘하는 개발자 👍🏻 적응력 갑 👍🏻 다재다능 👍🏻 시간관리 탁월 👍🏻 도전 열정
 <br><br/>  
 ⭐️ Follow me on Instagram
 
