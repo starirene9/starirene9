@@ -5,6 +5,8 @@
 
 I want to become a talented Front-end developer who consistently pursues learning and growth.
 
+Primarily worked in Aviation, having excellent communication skills, team-player, and proficiency in English.
+
 You will be able to see how much effort I have put in from the link below. " 👀
 <br><br/>  
 ⭐️ Follow me on Instagram
