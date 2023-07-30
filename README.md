@@ -15,7 +15,7 @@ https://www.instagram.com/bitnara_999/
 
 https://bitnara999.com 
 
-⭐️ Platforms & Langaugages
+⭐️ Platforms & Langauges
 
 ⭐️ Tools
 
