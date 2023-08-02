@@ -36,7 +36,7 @@ https://bitnara999.com
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge"/>
 <br><br/>  
 
-![starirene9's github stats](https://github-readme-stats.vercel.app/api?username=starirene9&show_icons=true)
+![starirene9's github stats](https://github-readme-stats.vercel.app/api?username=starirene9&theme=jolly_icons=true)
 [![starirene9's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=starirene9&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/starirene9)
 
 
