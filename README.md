@@ -26,10 +26,8 @@ https://bitnara999.com
 <img src="https://img.shields.io/badge/CSS3-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Java Script & ES6-F7DF1E?style=for-the-badge"/>
 <br><br/>  
-<img src="https://img.shields.io/badge/Java-006600?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-purple?style=for-the-badge"/>
 <br><br/>  
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge"/>
