@@ -22,6 +22,7 @@ https://bitnara999.com
 ⭐️ Platforms & Langauges
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Redux-61DAFB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Java Script & ES6-F7DF1E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HTML5-blue?style=for-the-badge"/>
