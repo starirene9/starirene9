@@ -36,12 +36,19 @@ https://bitnara999.com
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge"/>
 <br><br/>  
 
-⭐️ I am also learning 
+⭐️ I am also learning
 
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep Learning-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine Learning-61DAFB?style=for-the-badge"/>
-<br><br/> 
+<img src="https://img.shields.io/badge/CNN-00695C?style=for-the-badge"/>
+<br><br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<br><br/>
 
 ![starirene9's github stats](https://github-readme-stats.vercel.app/api?username=starirene9&theme=jolly_icons=true)
 [![starirene9's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=starirene9&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/starirene9)
