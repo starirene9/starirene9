@@ -11,13 +11,6 @@ Currently, I am studying Artificial Intelligence at the Software Convergence Gra
 I aspire to become a front-end developer who utilizes AI technologies. 
 
 <br><br/>  
-⭐️ Follow me on Instagram
-
-https://www.instagram.com/bitnara_999/
-
-⭐️ Website
-
-https://bitnara999.com 
 
 ⭐️ Platforms & Langauges
 
