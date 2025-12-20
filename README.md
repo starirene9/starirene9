@@ -27,9 +27,10 @@ I aspire to become a front-end developer who utilizes AI technologies.
 <img src="https://img.shields.io/badge/Bitbucket-navy?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cursor IDEA-7B2CBF?style=for-the-badge&logoColor=white"/>
 <br><br/>  
 
-⭐️ I am also learning
+⭐️ I've learned 
 
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep Learning-FF6F00?style=for-the-badge"/>
@@ -41,6 +42,7 @@ I aspire to become a front-end developer who utilizes AI technologies.
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM (Large Language Models)-0A7CC5?style=for-the-badge"/>
 <br><br/>
 
 ![starirene9's github stats](https://github-readme-stats.vercel.app/api?username=starirene9&theme=jolly_icons=true)
