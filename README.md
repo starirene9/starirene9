@@ -1,14 +1,32 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Bitnara%20999&fontSize=90" />
 
-Hi, I am a front-end developer who consistently pursues learning and growth.
+## 👋 Hi, I'm Bitna
 
-I have 18 months of experiences of developing dashboards for European and Southeast Asian markets in a foreign SME, as well as dashboard projects for Korean government initiatives.
+Front-end developer transitioning into AI — combining 18 months of dashboard
+development experience with graduate-level study in deep learning and LLMs.
 
-Primarily worked in international Aviation, collaborating with people of various nationalities, and have strong communication skills, teamwork, and proficiency in English.
+### 🎓 Currently
+- M.S. student in AI at Software Convergence Graduate School
+- Studying: LLMs, CNNs, image processing, machine learning, deep learning
+- Goal: AI Product Manager or AI Developer bridging frontend & AI systems
 
-Currently, I am studying Artificial Intelligence at the Software Convergence Graduate School on weekends, focusing on deep learning, machine learning, and image processing. 
-I aspire to become a front-end developer who utilizes AI technologies. 
+### 💼 Background
+- Built dashboards for **European & Southeast Asian markets** at a foreign SME
+- Contributed to **Korean government** dashboard initiatives
+- International Aviation industry — cross-cultural teamwork, strong English communication
+- Passionate about **health & wellness** — certified **RYT-200 Yoga Instructor**
+  and **Wellness Coach**
+
+### 🛠 Tech Stack
+**AI/ML:** Python, TensorFlow, PyTorch, Hugging Face, Computer Vision, LLM Integration (Gemini, Whisper, TTS)  
+**Frontend:** React, Redux Toolkit, Angular, TypeScript, JavaScript, HTML, CSS, Figma  
+**Tools:** Git, GitHub, Google Charts, RESTful APIs, Agile
+
+### 🚀 What I'm exploring
+- LLM-based applications & prompt engineering
+- CNN-based image classification projects
+- AI-integrated frontend experiences
 
 <br><br/>  
 
