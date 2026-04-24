@@ -20,7 +20,7 @@ development experience with graduate-level study in deep learning and LLMs.
 
 ### 🛠 Tech Stack
 **AI/ML:** Python, TensorFlow, PyTorch, Hugging Face, Computer Vision, LLM Integration (Gemini, Whisper, TTS)  
-**Frontend:** React, Redux Toolkit, Angular, TypeScript, JavaScript, HTML, CSS, Figma  
+**Frontend:** React, Redux Toolkit, TypeScript, JavaScript, HTML, CSS, Figma  
 **Tools:** Git, GitHub, Google Charts, RESTful APIs, Agile
 
 ### 🚀 What I'm exploring
